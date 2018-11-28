@@ -24,6 +24,9 @@ export default class Home extends Component{
 
                 
                 <Grid>
+              
+
+
                 <div className="banner text-center">
                     <h2 >The best agency you can choose</h2>
                     <p>We are committed to offering travel services of the highest quality, combining our energy and enthusiasm with years of experience.</p>
@@ -32,6 +35,12 @@ export default class Home extends Component{
                 <TourPlace/>
 
                 <Row className= "show-grid text-center">
+                <div className="testimonial">
+                <h1 className="text-center" > What Customers Say</h1>
+                <h5 className="text-center">Our clients’ testimonials are the best proof of our high level of service</h5>
+                </div>
+
+
                     <Col xs={12} sm={4} className="person-wrapper">
                     <Image src="/assets/img/testimony/p1.jpg" circle className="profile-pic"/>
                     <h3>Mari Johnson</h3>

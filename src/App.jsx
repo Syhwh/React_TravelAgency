@@ -6,7 +6,7 @@ import  Footer from "./components/shared/Footer";
 import Home from './components/Home';
 import About from './components/About';
 import Services from './components/Services';
-import News from './components/News';
+
 import Contact from './components/Contact';
 import './App.css';
 
@@ -19,8 +19,7 @@ class App extends Component {
         <Navigation/>
         <Route exact path="/" component={Home} />
         <Route path="/about" component={About} />
-        <Route path="/services" component={Services} />
-        <Route path="/news" component={News} />
+        <Route path="/services" component={Services} />        
         <Route path="/contact" component={Contact} />
         <Footer/>
         </div>

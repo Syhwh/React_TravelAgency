@@ -8,7 +8,7 @@ import '../../Styles/navigation.css'
 export default class Navigation extends Component{
     render(){
         return(
-           <Navbar  default collapseOnSelect>
+           <Navbar fixedTop default collapseOnSelect>
                 <Navbar.Header>
                 <Navbar.Brand>
                 <Link to="/"><Image className="logo"src="/assets/logo.png"/> </Link>
@@ -25,9 +25,6 @@ export default class Navigation extends Component{
                     </NavItem>
                     <NavItem eventKey={3} componentClass={Link} href="/services" to="/services">
                     Services
-                    </NavItem>
-                    <NavItem eventKey={3} componentClass={Link} href="/news" to="/news">
-                    News
                     </NavItem>
                     <NavItem eventKey={4} componentClass={Link} href="/contact" to="/contact">
                     Contact

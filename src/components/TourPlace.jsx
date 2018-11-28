@@ -14,7 +14,7 @@ export default class TourPlace extends Component{
                         <h3>Spain</h3>
                         <p>Madrid, Barcelona • 9 days Start your Eastern Europe trip from Berlin – one of the most attractive European cities. Head out to Warsaw – the capital of Poland, where you’ll be able to take a guided tour through the city’s places of interests and museums. </p>
                         <p>
-                        <Button bsStyle="primary">Button</Button>
+                        <Button bsStyle="primary">More</Button>
                         </p>
                     </Thumbnail>                   
                     </Col>
@@ -24,7 +24,7 @@ export default class TourPlace extends Component{
                         <h3>United Kingdom</h3>
                         <p>England, Scotland, Wales • 13 days Start your Eastern Europe trip from Berlin – one of the most attractive European cities. Head out to Warsaw – the capital of Poland, where you’ll be able to take a guided tour through the city’s places of interests and museums. </p>
                         <p>
-                        <Button bsStyle="primary">Button</Button>
+                        <Button bsStyle="primary">More</Button>
                         </p>
                     </Thumbnail>                   
                     </Col>
@@ -34,7 +34,7 @@ export default class TourPlace extends Component{
                         <h3>Turkey</h3>
                         <p>Istanbul, Antalya, Ephesus • 8 days Start your Eastern Europe trip from Berlin – one of the most attractive European cities. Head out to Warsaw – the capital of Poland, where you’ll be able to take a guided tour through the city’s places of interests and museums. </p>
                         <p>
-                        <Button bsStyle="primary">Button</Button>
+                        <Button bsStyle="primary">More</Button>
                         </p>
                     </Thumbnail>                   
                     </Col>
