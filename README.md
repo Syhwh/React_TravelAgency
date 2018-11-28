@@ -1,10 +1,10 @@
 ## Travel Agency -React Web Page
 
 
-![captura de pantalla 2018-11-27 20 41 10](https://user-images.githubusercontent.com/35041156/49123277-03e9e600-f286-11e8-826a-d723584b012c.png)
-![captura de pantalla 2018-11-27 20 41 27](https://user-images.githubusercontent.com/35041156/49123279-03e9e600-f286-11e8-87e2-331d95ecaa01.png)
-![captura de pantalla 2018-11-27 20 41 38](https://user-images.githubusercontent.com/35041156/49123280-04827c80-f286-11e8-8eda-26c194f275f9.png)
-
+![home_](https://user-images.githubusercontent.com/35041156/49167642-caf05680-f303-11e8-8fed-5f0977ec07a6.png)
+![contact](https://user-images.githubusercontent.com/35041156/49167644-caf05680-f303-11e8-89e3-5bdf3bff167e.png)
+![services](https://user-images.githubusercontent.com/35041156/49167645-caf05680-f303-11e8-9565-9dcef3b85f08.png)
+![about](https://user-images.githubusercontent.com/35041156/49167646-caf05680-f303-11e8-9104-703b36a0426c.png)
 
 
 
