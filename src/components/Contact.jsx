@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import {Link} from 'react-router-dom';
-import {Grid,Col,Image,Button,Row,Form,FormGroup,ControlLabel} from 'react-bootstrap';
+import {Grid,Col,Image,Row} from 'react-bootstrap';
 import FormContact from './FormContact'
 
 import '../Styles/contact.css'
