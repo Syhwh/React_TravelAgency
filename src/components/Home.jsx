@@ -17,14 +17,8 @@ export default class Home extends Component{
                     <Button bsStyle="primary">More</Button></Link>
                 </Jumbotron>
                 </Grid>
-                </div>
-
-                
-
-
-                
-                <Grid>
-              
+                </div>                 
+                <Grid>             
 
 
                 <div className="banner text-center">
