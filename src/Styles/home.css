@@ -1,5 +1,5 @@
 .header{
-    background: URL('assets/img/adventure.jpg') no-repeat center;
+    background: URL('/assets/img/adventure.jpg') no-repeat center;
     background-size: 100%;
     width: 100%;
     height: 100vh;
